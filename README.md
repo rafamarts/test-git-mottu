@@ -1,3 +1,3 @@
-# Test Git Mottu 2
+# Test Git Mottu
 
-Mudança no readme, agora está funcionando ok!!
+Mudança no README, agora está funcionando ok!!
